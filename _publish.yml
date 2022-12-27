@@ -1,0 +1,4 @@
+- source: dashboard.ipynb
+  quarto-pub:
+    - id: 2e584551-d044-4b29-a241-c405988f61b1
+      url: 'https://quartopub.com/sites/abassiha/dashboard'
